@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // Fill in the file of your project here when you develop locally.
-$root = '';
+$root = 'gest-assets';
 
 // Possible hosts locally. You can add some if needed.
 $host_local = ['localhost', '127.0.0.1', '::1'];
