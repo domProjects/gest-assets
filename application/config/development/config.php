@@ -31,7 +31,7 @@ $config['base_url'] = ( ! empty($_SERVER['HTTPS'])) ? 'https://'.$url.'/' : 'htt
 |	4 = All Messages
 |
 */
-$config['log_threshold'] = 1;
+$config['log_threshold'] = 4;
 
 /*
 |--------------------------------------------------------------------------
